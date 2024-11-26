@@ -18,3 +18,19 @@ Follow along with the [YouTube tutorial](https://youtu.be/OqlI2766LCk?feature=sh
 ---
 
 
+## 🛠 Tech Stack
+
+- **Frontend**: Next.js 15, React, TypeScript
+- **Backend**: Node.js, Google Gemini API, Assembly AI API
+- **Database**: Prisma, PostgreSQL
+- **Payments**: Stripe
+- **Deployment**: Vercel
+
+---
+
+## 📚 Prerequisites
+
+1. Node.js (v18+)
+2. PostgreSQL
+3. Stripe account for API keys
+4. Google Gemini and Assembly AI API keys
